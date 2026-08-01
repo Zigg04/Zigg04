@@ -367,40 +367,6 @@ alt="Contribution activity graph"
 
 </div>
 
----
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png"
-width="55"
-alt="Ekans"
-/>
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Zigg04/Zigg04/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Zigg04/Zigg04/output/github-contribution-grid-snake.svg"
-  >
-  <img
-    src="https://raw.githubusercontent.com/Zigg04/Zigg04/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake"
-  >
-</picture>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png" width="45" alt="Ekans"/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png" width="45" alt="Arbok"/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png" width="45" alt="Seviper"/>
-
-</div>
 
 ---
 
