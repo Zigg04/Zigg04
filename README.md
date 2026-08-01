@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png" width="170" alt="Tyranitar"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="110" alt="Animated Pikachu"/>
 
 # 🪨 Luis Guillermo García Petit
 
 ### Flutter Engineer · Full Stack Developer · Mobile Developer
 
 > *“Great software, like Tyranitar, is built through evolution.”*
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png" width="150" alt="Larvitar"/>
 
 <br>
 
