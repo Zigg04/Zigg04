@@ -111,8 +111,8 @@ alt="Technology stack"
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/technical-machine.png" width="35" alt="Technical Machine"/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/upgrade.png" width="35" alt="Upgrade"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/exp-share.png" width="38" alt="Experience Share"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-egg.png" width="38" alt="Lucky Egg"/>
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dubious-disc.png" width="35" alt="Dubious Disc"/>
 
 </div>
